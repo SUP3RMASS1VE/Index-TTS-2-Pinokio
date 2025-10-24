@@ -1,7 +1,7 @@
 const path = require('path')
 module.exports = {
   version: "3.7",
-  title: "index-tts",
+  title: "index-tts-2",
   description: "",
   icon: "icon.png",
   menu: async (kernel, info) => {
